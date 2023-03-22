@@ -1,0 +1,18 @@
+[
+    {
+        "icon": "notepad",
+        "text": "Planning"
+    },
+    {
+        "icon": "layout",
+        "text": "Mockup"
+    },
+    {
+        "icon": "filter",
+        "text": "Develope"
+    },
+    {
+        "icon": "thumb-up",
+        "text": "Provide"
+    }
+]

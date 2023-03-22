@@ -1,0 +1,49 @@
+{
+    "about": {
+        "subtitle":"We Create",
+        "title":"Awesome Work"
+    },
+    "aboutWithBg": {
+        "subtitle":"We See",
+        "title":"What Other Don't See."
+    },
+    "service": {
+        "subtitle":"Makes Happen",
+        "title":"Our Service"
+    },
+    "portfolio": {
+        "subtitle":"Our Awesome Works",
+        "title":"Our Portfolio"
+    },
+    "team": {
+        "subtitle":"Meet With",
+        "title":"Our Angels"
+    },
+    "fucts": {
+        "subtitle":"We Are Awesome",
+        "title":"Some Fun Fucts"
+    },
+    "testimonials": {
+        "subtitle":"Testimonial",
+        "title":"What Our Clients Says"
+    },
+    "blog": {
+        "subtitle":"News Feeds",
+        "title":"Our Blog"
+    },
+    "contacts": {
+        "subtitle":"Get Here",
+        "title":"Contact Us"
+    },
+    "touch": {
+        "subtitle":"Available 24/7",
+        "title":"Get In Touch"
+    }
+}
+
+
+
+
+
+
+

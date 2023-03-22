@@ -1,0 +1,26 @@
+[
+    {
+        "icon":"location-pin",
+        "title":"Location",
+        "subtitle":"12345 Fake ST NoWhere AB Country",
+        "mb":""
+    },
+    {
+        "icon":"mobile",
+        "title":"Phone Number",
+        "subtitle":"(123) 456-7890",
+        "mb":""
+    },
+    {
+        "icon":"email",
+        "title":">Email Address",
+        "subtitle":"info@example.com",
+        "mb":"mb-0"
+    },
+    {
+        "icon":"world",
+        "title":"example.com",
+        "subtitle":"info@example.com",
+        "mb":"mb-0"
+    }
+]

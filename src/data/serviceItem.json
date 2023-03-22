@@ -1,0 +1,42 @@
+[
+    {
+        "icon": "filter",
+        "title": "corporis assumenda",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis amet saepe et!"
+    },
+    {
+        "icon": "paint-roller",
+        "title": "Debitis amet",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis amet saepe et!"
+    },
+    {
+        "icon": "ruler-pencil",
+        "title": "Libero temporibus",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis amet saepe et!"
+    },
+    {
+        "icon": "layers",
+        "title": "Perspiciatis explicabo",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis amet saepe et!"
+    },
+    {
+        "icon": "bolt",
+        "title": "Poluptatum",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis amet saepe et!"
+    },
+    {
+        "icon": "palette",
+        "title": "Nihil dicta",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis amet saepe et!"
+    },
+    {
+        "icon": "stats-up",
+        "title": "Repellendus maxime",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis amet saepe et!"
+    },
+    {
+        "icon": "location-arrow",
+        "title": "Sint vitae",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis amet saepe et!"
+    }
+]
