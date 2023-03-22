@@ -22,16 +22,16 @@ function Navigation() {
                         <Link to={'/about'} className="nav-link">About</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link" to={"/service"}>Service</Link>
+                        <Link className="nav-link" to={'/service'}>Service</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link" to={"/portfolio"}>Portfolio</Link>
+                        <Link className="nav-link" to={'/portfolio'}>Portfolio</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link" to={"/team"}>Team</Link>
+                        <Link className="nav-link" to={'/team'}>Team</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link" to={"/testimonial"}>Testimonial</Link>
+                        <Link className="nav-link" to={'/testimonial'}>Testimonial</Link>
                     </li>
                     <li className="nav-item">
                         <Link to={'/blog'}  className="nav-link" >Blog</Link>
