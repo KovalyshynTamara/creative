@@ -33,10 +33,10 @@ const router = createHashRouter([
             
         ]
     },
-    {
-        path: "*",
-        element: <NotFound/>,
-    },
+    // {
+    //     path: "*",
+    //     element: <NotFound/>,
+    // },
 
   
 ]);
