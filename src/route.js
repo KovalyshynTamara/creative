@@ -3,15 +3,18 @@ import App from "./assets/App";
 import About from './pages/About';
 import Main from "./pages/Main";
 import Contacts1 from "./pages/Contacts1";
-// import NotFound from "./pages/NotFound";
+import NotFound from "./pages/NotFound";
 import Blog from "./pages/Blog";
-// import { devHome, prodHome } from "./config";
+import Team from "./assets/components/Team";
+import Testimonials from "./assets/components/Testimonials";
+import Portfolio from "./assets/components/Portfolio";
+import Service from "./assets/components/Service";
+
 
 
 const router = createHashRouter([
     
     {
-        // path: window.location.hostname==='localhost' ? devHome : prodHome,
         path: '/',
         element: <App/>,
         children: [
@@ -31,13 +34,29 @@ const router = createHashRouter([
                 path: "blog",
                 element: <Blog/>,
             },
+            {
+                path: "testimonial",
+                element: <Testimonials/> ,
+            },
+            {
+                path: "team",
+                element: <Team/>,
+            },
+            {
+                path: "service",
+                element: <Service/>,
+            },
+            {
+                path: "portfolio",
+                element: <Portfolio/>,
+            },
             
         ]
     },
-    // {
-    //     path: "*",
-    //     element: <NotFound/>,
-    // },
+    {
+        path: "*",
+        element: <NotFound/>,
+    },
 
   
 ]);
