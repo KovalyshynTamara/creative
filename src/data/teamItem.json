@@ -2,37 +2,37 @@
     {
         "name":"Matthew Davis",
         "position":"FOUNDER",
-        "avatar":"static/media/avatar.a2478c59395db484d286.jpg",
+        "avatar":"avatar.jpg",
         "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni quos esse tenetur illo qui, nostrum."   
     },
     {
         "name":"Barbara Ross",
         "position":"CEO",
-        "avatar":"static/media/avatar-1.3edfd0abd9a61b30c6b1.jpg",
+        "avatar":"avatar-1.jpg",
         "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni quos esse tenetur illo qui, nostrum."   
     },
     {
         "name":"Karen Perry",
         "position":"Designer",
-        "avatar":"static/media/avatar-2.aa2f2b073fcedc5afd5d.jpg",
+        "avatar":"avatar-2.jpg",
         "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni quos esse tenetur illo qui, nostrum."   
     },
     {
         "name":"Ashley Diaz",
         "position":"App Designer",
-        "avatar":"static/media/avatar-3.146f4ba813ff3bdcda54.jpg",
+        "avatar":"avatar-3.jpg",
         "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni quos esse tenetur illo qui, nostrum."   
     },
     {
         "name":"Edward Harris",
         "position":"Developer",
-        "avatar":"static/media/avatar-7.0bed73e1ec36c6a43a9e.jpg",
+        "avatar":"avatar-7.jpg",
         "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni quos esse tenetur illo qui, nostrum."   
     },
     {
         "name":"Brian Scott",
         "position":"photographer",
-        "avatar":"static/media/avatar-5.c83d1e5015fb81333def.jpg",
+        "avatar":"avatar-5.jpg",
         "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni quos esse tenetur illo qui, nostrum."   
     }
 ]

@@ -1,4 +1,4 @@
-// import avatar5 from './../../imgs/avatar-6.jpg'
+import avatar5 from './../../imgs/avatar-7.jpg'
 
 function TestimonialItem(props) {
     const { name, text,avatar } = props
@@ -7,7 +7,7 @@ function TestimonialItem(props) {
         <div className="col-md-6">
             <div className="testimonial-wrapper">
                 <div className="img-holder">
-                    <img src={avatar} alt=""/>                     
+                    <img src={avatar5} alt=""/>                     
                 </div>
                 <div className="body">
                     <p className="subtitle">{text}</p>
