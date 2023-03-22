@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/KovalyshynTamara/creative/static/css/main.5cdc25e1.css",
+    "main.js": "/KovalyshynTamara/creative/static/js/main.8328b875.js",
+    "static/media/header.jpg": "/KovalyshynTamara/creative/static/media/header.e59e1a63bedc5fec03d5.jpg",
+    "static/media/themify.svg?-fvbane": "/KovalyshynTamara/creative/static/media/themify.f0fc8c798eac5636249c.svg",
+    "static/media/section.jpg": "/KovalyshynTamara/creative/static/media/section.b9d7b466345d3b42da01.jpg",
+    "static/media/about.jpg": "/KovalyshynTamara/creative/static/media/about.f346b202658a003e6edc.jpg",
+    "static/media/themify.eot": "/KovalyshynTamara/creative/static/media/themify.9bad94440d49256265a5.eot",
+    "static/media/themify.ttf?-fvbane": "/KovalyshynTamara/creative/static/media/themify.eda8b94308c6f538f04a.ttf",
+    "static/media/themify.woff?-fvbane": "/KovalyshynTamara/creative/static/media/themify.29b39089170885ae2967.woff",
+    "static/media/logo.png": "/KovalyshynTamara/creative/static/media/logo.e78afaf34eb30c2cefd5.png",
+    "static/media/lg.svg?io9a6k": "/KovalyshynTamara/creative/static/media/lg.09cd8e9be7081f216644.svg",
+    "static/media/lg.woff?io9a6k": "/KovalyshynTamara/creative/static/media/lg.356a0e9cb064c7a196c6.woff",
+    "static/media/lg.ttf?io9a6k": "/KovalyshynTamara/creative/static/media/lg.747d038541bfc6bb8ea9.ttf",
+    "static/media/lg.woff2?io9a6k": "/KovalyshynTamara/creative/static/media/lg.64b800aa30714fd916dc.woff2",
+    "index.html": "/KovalyshynTamara/creative/index.html",
+    "main.5cdc25e1.css.map": "/KovalyshynTamara/creative/static/css/main.5cdc25e1.css.map",
+    "main.8328b875.js.map": "/KovalyshynTamara/creative/static/js/main.8328b875.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cdc25e1.css",
+    "static/js/main.8328b875.js"
+  ]
+}
