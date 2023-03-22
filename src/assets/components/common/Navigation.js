@@ -19,20 +19,19 @@ function Navigation() {
                         <Link className="nav-link" to={'/'}>Home</Link>
                     </li>
                     <li className="nav-item">
-                            {/* <a className="nav-link" href={'/about'}>About</a> */}
-                            <Link to={'/about'} className="nav-link">About</Link>
+                        <Link to={'/about'} className="nav-link">About</Link>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#service">Service</a>
+                        <Link className="nav-link" to={"/service"}>Service</Link>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#portfolio">Portfolio</a>
+                        <Link className="nav-link" to={"/portfolio"}>Portfolio</Link>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#team">Team</a>
+                        <Link className="nav-link" to={"/team"}>Team</Link>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#testimonial">Testimonial</a>
+                        <Link className="nav-link" to={"/testimonial"}>Testimonial</Link>
                     </li>
                     <li className="nav-item">
                         <Link to={'/blog'}  className="nav-link" >Blog</Link>
